@@ -1,4 +1,4 @@
-# Text Analysis and Classification using Machine Learning
+# Text Analysis and Classification using ML
 
 This project demonstrates two core Natural Language Processing (NLP) tasks using Python:
 
