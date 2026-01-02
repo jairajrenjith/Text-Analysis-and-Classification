@@ -1,0 +1,14 @@
+Resume 1:
+Name: Rahul Kumar
+Email: rahul.kumar@gmail.com
+Phone: +91 9876543210
+
+Resume 2:
+Name: Anjali Menon
+Email: anjali_menon@outlook.com
+Contact: 98765-43210
+
+Resume 3:
+Name: John Doe
+Email: john.doe123@yahoo.com
+Mobile: 9123456789

@@ -1,0 +1,12 @@
+{
+    "emails": [
+        "anjali_menon@outlook.com",
+        "john.doe123@yahoo.com",
+        "rahul.kumar@gmail.com"
+    ],
+    "phone_numbers": [
+        "+91 9876543210",
+        "9123456789",
+        "98765-43210"
+    ]
+}

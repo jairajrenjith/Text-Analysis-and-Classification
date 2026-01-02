@@ -1,0 +1,7 @@
+nltk
+spacy
+textblob
+scikit-learn
+pandas
+matplotlib
+seaborn
