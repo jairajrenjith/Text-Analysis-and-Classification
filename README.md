@@ -127,13 +127,13 @@ All dependencies are listed in `requirements.txt`.
 
 ## Environment Setup (After Cloning)
 
-### Create Virtual Environment
+### 1. Create Virtual Environment
 
   ```bash
   python -m venv venv
   ```
 
-### Activate Virtual Environment
+### 2. Activate Virtual Environment
 
 a. Windows:
   ```bash
@@ -145,13 +145,13 @@ b. Linux / macOS:
   source venv/bin/activate
   ```
 
-### Install Dependencies
+### 3. Install Dependencies
 
   ```bash
   pip install -r requirements.txt
   ```
 
-### Download Required NLP Resources
+### 4. Download Required NLP Resources
 
   ```bash
   python -m nltk.downloader punkt stopwords
