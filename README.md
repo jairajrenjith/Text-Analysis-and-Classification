@@ -201,5 +201,5 @@ Open `sentiment_analysis.ipynb` and run all cells sequentially from top to botto
 
 ## Author
 
-Jairaj R  
-Email: jairajrenjith@gmail.com
+Name : Jairaj R  
+Email : jairajrenjith@gmail.com
