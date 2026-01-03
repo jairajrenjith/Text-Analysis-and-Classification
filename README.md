@@ -12,7 +12,7 @@ The project is designed for beginners and explains the complete workflow from ra
 ## Project Structure
 
 ```
-Text_Analysis_and_Classification/
+Text-Analysis-and-Classification/
 │
 ├── resume_extractor/
 │   ├── extractor.py
