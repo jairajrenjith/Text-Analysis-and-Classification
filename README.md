@@ -23,6 +23,8 @@ Text-Analysis-and-Classification/
 │   ├── dataset.csv
 │   └── sentiment_analysis.ipynb
 │
+├── .gitattributes
+├── .gitignore
 ├── requirements.txt
 └── README.md
 ```
