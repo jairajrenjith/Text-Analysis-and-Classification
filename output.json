@@ -1,0 +1,32 @@
+{
+    "resume1.txt": {
+        "name": "John Doe",
+        "role": "Software Developer",
+        "emails": [
+            "john.doe@gmail.com"
+        ],
+        "phone_numbers": [
+            "+1-202-555-0173"
+        ]
+    },
+    "resume2.txt": {
+        "name": "Priya Sharma",
+        "role": "Data Analyst",
+        "emails": [
+            "priya.sharma99@yahoo.com"
+        ],
+        "phone_numbers": [
+            "9876543210"
+        ]
+    },
+    "resume3.txt": {
+        "name": "Rahul Menon",
+        "role": "AI Engineer",
+        "emails": [
+            "rahul.menon@outlook.com"
+        ],
+        "phone_numbers": [
+            "(91) 91234 56789"
+        ]
+    }
+}
