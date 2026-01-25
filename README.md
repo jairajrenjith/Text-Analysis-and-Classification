@@ -30,7 +30,7 @@ A machine learning pipeline that classifies movie reviews as **positive** or **n
 ## Project Structure
 
 ```
-text_analysis_project/
+Text-Analysis-and-Classification/
 │
 ├── resume_extractor.py        # Rule-based resume parser
 ├── sentiment_analysis.ipynb   # ML sentiment classification notebook
@@ -53,13 +53,13 @@ Make sure Python 3.8+ is installed.
 ### 1. Clone the repository
 
   ```bash
-  git clone https://github.com/your-username/text_analysis_project.git
+  git clone <repo-link>
   ```
 
 ### 2. Navigate into the project folder
 
   ```bash
-  cd text_analysis_project
+  cd Text-Analysis-and-Classification
   ```
 
 ### 3. Create virtual environment
